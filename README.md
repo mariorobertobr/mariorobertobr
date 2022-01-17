@@ -2,8 +2,8 @@
 
 
 <div style="display: block">
- <img height= "200" width= "400" src="https://github-readme-stats.vercel.app/api?username=mariorobertobr&show_icons=true&theme=midnight-purple" />
- <img height= "200" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&count_private=true" />
+ <img  src="https://github-readme-stats.vercel.app/api?username=mariorobertobr&show_icons=true&theme=midnight-purple" /> &ensp;
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&count_private=true" />
 </div>
 
 ## let's be friends:blush:: <br>
