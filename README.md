@@ -6,7 +6,7 @@
  <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&count_private=true" />
 </div>
 
-#### Some of the languages or frameworks that I use to work with:
+## Some of the languages or frameworks that I use to work with:
 
 <div style="display: inline_block"><br>
  <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &ensp;
@@ -28,7 +28,7 @@
 
 </div>
 
-### Environments: <br>
+## Environments: <br>
 <div>
   <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  &ensp;
   <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  &ensp;
