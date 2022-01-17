@@ -1,9 +1,9 @@
 ### 👋 Hi, It's a me, Mario! I'm from Brazil. 🇧🇷 
 
-
-<div style="display: block">
- <img  src="https://github-readme-stats.vercel.app/api?username=mariorobertobr&show_icons=true&theme=midnight-purple" /> &ensp;
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&count_private=true" />
+## ⚙️ &nbsp;GitHub Analytics
+<div align="left" style="display: block">
+ <img  width="530em" src="https://github-readme-stats.vercel.app/api?username=mariorobertobr&show_icons=true&theme=midnight-purple" /> &ensp;
+ <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&count_private=true" />
 </div>
 
 #### Some of the languages or frameworks that I use to work with:
