@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mario Becker, I'm from Brazil. 🇧🇷 
+### 👋 Hi, My name's Mario Becker, I'm from Brazil. 🇧🇷 
 
 
 <div style="display: block">
