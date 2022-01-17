@@ -1,4 +1,4 @@
-### 👋 Hi, It's me Mario! I'm from Brazil. 🇧🇷 
+### 👋 Hi, It's a me, Mario! I'm from Brazil. 🇧🇷 
 
 
 <div style="display: block">
