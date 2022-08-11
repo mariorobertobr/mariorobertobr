@@ -2,7 +2,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="left" style="display: block">
- <img  width="530em" src="https://github-readme-stats.vercel.app/api?username=mariorobertobr&show_icons=true&theme=midnight-purple" /> &ensp;
+ <img  width="530em" src="https://github-readme-stats.vercel.app/api?username=mariorobertobr&show_icons=true&theme=midnight-purple&count_private=true" /> &ensp;
  <img  width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariorobertobr&layout=compact&theme=midnight-purple&count_private=true" />
 </div>
 
