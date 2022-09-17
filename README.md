@@ -8,25 +8,14 @@
 
 ## Some of the languages or frameworks that I use to work with:
 
-<div style="display: inline_block"><br>
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />  &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> &ensp;
- <img height= "40" width= "40" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />  &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />  &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> &ensp;
- <img height= "40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &ensp;
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,tailwind,nextjs,nestjs,prisma,sass,vite,express,firebase" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,androidstudio, postgres,docker,mongodb,heroku,gradle" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,django,c" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea" />
+  </a>
+</p>
 
 ## Environments: <br>
 <div>
