@@ -8,20 +8,18 @@
 
 ## Some of the languages or frameworks that I use to work with:
 
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,tailwind,nextjs,nestjs,prisma,sass,vite,express,firebase" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,vercel,tailwind,styledcomponents,nextjs,nestjs,prisma,sass,vite,express,firebase" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,androidstudio, postgres,docker,mongodb,heroku,gradle" />
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,django,c" />
-      <img src="https://skillicons.dev/icons?i=vscode,idea" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,django,qt,selenium,c" />
+   <br/>   
+   <img src="https://skillicons.dev/icons?i=vscode,idea" />
   </a>
 </p>
 
-## Environments: <br>
-<div>
-  <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  &ensp;
-  <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />  &ensp;
-</div>
 
  
 
